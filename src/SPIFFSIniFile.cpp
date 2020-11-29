@@ -1,3 +1,4 @@
+#include "SPIFFS.h"
 #include "SPIFFSIniFile.h"
 
 #include <string.h>
